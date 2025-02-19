@@ -1,0 +1,32 @@
+{
+  "name": "digital-image-trading-platform",
+  "version": "1.0.0",
+  "description": "A digital image trading platform for browsing and purchasing high-quality images.",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0",
+    "axios": "^0.21.1",
+    "tailwindcss": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "postcss": "^8.2.0",
+    "autoprefixer": "^10.2.0"
+  },
+  "keywords": [
+    "vue",
+    "image",
+    "trading",
+    "platform"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
